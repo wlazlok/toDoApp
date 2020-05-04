@@ -35,3 +35,4 @@ To open and run this project, download this respository to one folder and then o
 ## Screenshots
 ![Main screen](./images/mainWindow.PNG)
 ![Example screen](./images/exmapleWindow.PNG)
+![PDF file](./images/pdfFile.PNG)
