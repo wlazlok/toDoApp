@@ -1,5 +1,5 @@
-# toDoApp
-**Simple To Do App created with Java 11, JavaFX 11 and H2 Database**
+# To Do App
+**Simple To Do App created with Java 14, JavaFX 11 and H2 Database**
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -13,7 +13,7 @@ This project is simple To Do App to menage tasks (tasks can be sorted by categor
 
 ## Technologies
 Project is created with:
-* Java version: 11.0
+* Java version: 14.0
 * JavaFX version: 11.0
 * H2 Database version: 1.4.200
 
