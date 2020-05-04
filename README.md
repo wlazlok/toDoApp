@@ -33,3 +33,5 @@ To open and run this project, download this respository to one folder and then o
 * **email:** kwlazo9@gmail.com
 
 ## Screenshots
+![Main screen](./images/mainWindow.PNG)
+![Example screen](./images/exmapleWindow.PNG)
