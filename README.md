@@ -33,6 +33,6 @@ To open and run this project, download this respository to one folder and then o
 * **email:** kwlazo9@gmail.com
 
 ## Screenshots
-![Main screen](./images/mainWindow.PNG)
+![Main screen](./images/mainScreen.PNG)
 ![Example screen](./images/exmapleWindow.PNG)
 ![PDF file](./images/pdfFile.PNG)
