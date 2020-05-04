@@ -23,7 +23,7 @@ To open and run this project, download this respository to one folder and then o
 ## Features
 * Add/Delete new category
 * Add/Delete/Edit task in category
-* Edit selected book
+* Edit selected task
 * Browse exist tasks in database
 * Ability to export data to PDF file
 
