@@ -9,7 +9,7 @@
 * [Screenshots](#screenshots)
 
 ## General info
-This project is simple To Do App to menage tasks (tasks can be sorted by categories).
+This project is simple To Do App to manage tasks (tasks can be sorted by categories).
 
 ## Technologies
 Project is created with:
