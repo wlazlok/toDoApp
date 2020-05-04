@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="test" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="489.0" prefWidth="644.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="toDoApp.Controllers.listOfAllTaskController">
+   <children>
+      <TableView fx:id="taskTableView" layoutX="16.0" layoutY="14.0" prefHeight="412.0" prefWidth="613.0">
+        <columns>
+          <TableColumn fx:id="taskColumn" prefWidth="301.0" text="%column.task" />
+            <TableColumn fx:id="categoryColumn" prefWidth="102.0" text="%column.category" />
+            <TableColumn fx:id="dateColumn" prefWidth="209.0" text="%column.added.date" />
+        </columns>
+      </TableView>
+      <Button layoutX="261.0" layoutY="437.0" mnemonicParsing="false" onAction="#exportToPDF" text="%button.pdf">
+         <graphic>
+            <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../icons/pdf_icon.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+   </children>
+</Pane>
